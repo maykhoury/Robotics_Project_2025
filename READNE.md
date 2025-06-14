@@ -1,5 +1,6 @@
  Bug2-Based Drone Navigation Simulator
- 📍 _This project was originally developed and committed to a private repository under my college GitHub account as part of an academic assignment._
+ 
+ _This project was originally developed and committed to a private repository under my college GitHub account as part of an academic assignment._
 This project implements a **Bug2 algorithm** for autonomous obstacle-avoiding drone navigation using simulated Lidar data within a known and unknown environment. The drone is controlled using Microsoft's [AirSim](https://github.com/microsoft/AirSim) simulator.
 
 ## Features
